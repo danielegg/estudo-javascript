@@ -4,6 +4,8 @@
 
 1. Criando aplicação React
    npx create-react-app .
+1.1 Instalando no node_modules quando não existir no projeto
+   npm install
 2. Iniciar a aplicação
    npm start (dentro do diretório da aplicação)
 3. Limpar arquivos desnecessários criado pelo create-react-app.
